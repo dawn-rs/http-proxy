@@ -48,7 +48,6 @@ build-std = [
           "std",
           "panic_abort",
           "compiler_builtins",
-          "compiler_builtins_c"
 ]
 EOF
 
