@@ -1408,7 +1408,7 @@ dependencies = [
 [[package]]
 name = "twilight-http-ratelimiting"
 version = "0.16.0-rc.1"
-source = "git+https://github.com/twilight-rs/twilight.git#302688daa951e6353f75eee56a55d684726b8c38"
+source = "git+https://github.com/twilight-rs/twilight.git?rev=280437bb81e71a6992cf74619f819bc8f8c42d42#280437bb81e71a6992cf74619f819bc8f8c42d42"
 dependencies = [
  "tokio",
  "tracing",
